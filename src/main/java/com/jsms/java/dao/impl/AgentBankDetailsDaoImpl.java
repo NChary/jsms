@@ -18,18 +18,6 @@ public class AgentBankDetailsDaoImpl implements AgentBankDetailsDao{
 		return jdbcTemplate;
 	}
 
-	/*@Override
-	public String saveAgentBankDetails(BankDetails bankDetails) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public String saveAgentBankDetails(BankDetails bankDetails) {
-		// TODO Auto-generated method stub
-		return null;
-	}*/
-
 	@Override
 	public String saveAgentBankDetails(BankDetails bankDetails) {
 		// TODO Auto-generated method stub
