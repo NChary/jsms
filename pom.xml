@@ -5,7 +5,7 @@
 	<artifactId>JSMS</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0</version>
-	<name>ESSP Maven Webapp</name>
+	<name>JSMS Maven Webapp</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
